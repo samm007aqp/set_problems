@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523598755 source:c:\c++\pointers_course\set_problems5\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+

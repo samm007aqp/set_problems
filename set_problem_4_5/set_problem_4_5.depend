@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524198193 source:c:\c++\pointers_course\set_problem_4_5\main.cpp
+	<iostream>
+	"geometry.h"
+
+1524198247 source:c:\c++\pointers_course\set_problem_4_5\geometry.cpp
+	"geometry.h"
+
+1524197281 c:\c++\pointers_course\set_problem_4_5\geometry.h
+	<iostream>
+	<math.h>
+
